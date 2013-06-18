@@ -1,0 +1,8 @@
+#top-panel td > a {
+    background: url("https://github.com/techgaun/jenkins_theme/images/title.png") 0 0 no-repeat;
+    display: block;
+    /*width: 124px;
+    height: 40px;
+    margin: 10px 0 10px 10px;*/ }
+    #top-panel td > a img {
+      display: none; }
